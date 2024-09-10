@@ -232,7 +232,7 @@ FastAPI / DLLS 구성 연동 실행 예시
 
 # 15. 시연 결과 모습
 
-발표 동영상 들어갈 자리
+[![Video Label](http://img.youtube.com/vi/nHfvR350fLk/0.jpg)](https://youtu.be/nHfvR350fLk)
 
 # 16. Deploy Issue (배포 이슈)
 
